@@ -31,7 +31,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Browser
-        default_value: lorem-ipsum
+        default_value: 'Chrome, Safari Firefox'
         options: []
         is_required: false
         type: form_field
