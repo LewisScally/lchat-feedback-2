@@ -58,7 +58,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: OS
+        label: Device Type
         default_value: lorem-ipsum
         options: []
         is_required: false
