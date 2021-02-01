@@ -13,10 +13,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
