@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: ''
     content: >
       We appreciate your feedback, please complete the below form for a chance
       to win £1000
