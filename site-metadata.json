@@ -37,7 +37,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/festive-mustard.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "L Chat Feedback\n\n"
