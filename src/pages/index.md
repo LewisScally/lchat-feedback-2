@@ -9,10 +9,7 @@ sections:
     content: >
       We appreciate your feedback, please complete the below form for a chance
       to win £1000
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
