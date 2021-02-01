@@ -67,8 +67,6 @@ seo:
   extra:
     - name: 'og:description'
       value: The preview of the Azimuth theme
-    - name: 'og:image'
-      value: images/hero.png
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
