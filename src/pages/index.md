@@ -47,7 +47,6 @@ sections:
         default_value: lorem-ipsum
         options:
           - lorem-ipsum
-          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: text
