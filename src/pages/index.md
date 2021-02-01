@@ -61,7 +61,7 @@ sections:
         label: Device Type
         default_value: lorem-ipsum
         options:
-          - lorem-ipsum
+          - PC
           - lorem-ipsum
         is_required: false
         type: form_field
