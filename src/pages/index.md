@@ -45,7 +45,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Noted errors
-        default_value: 'Did any asopects not work,'
+        default_value: 'Did any aspects not work,'
         options: []
         is_required: false
         type: form_field
