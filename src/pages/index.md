@@ -68,7 +68,7 @@ sections:
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
-        is_required: true
+        is_required: false
         type: form_field
     submit_label: Submit
     type: section_contact
