@@ -62,7 +62,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - PC
-          - lorem-ipsum
+          - Mobile
         is_required: false
         type: form_field
     submit_label: Submit
