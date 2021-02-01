@@ -76,7 +76,7 @@
             {
                 "type": "footer_form",
                 "title": "",
-                "content": "Stay up to date with our latest developments.",
+                "content": "",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
