@@ -12,17 +12,9 @@ sections:
   - section_id: lorem-ipsum
     title: L Chat
     subtitle: Feedback Form
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Please fill in the below
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
