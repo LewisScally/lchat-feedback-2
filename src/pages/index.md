@@ -65,8 +65,6 @@ seo:
     - index
     - follow
   extra:
-    - name: 'og:title'
-      value: Stackbit Azimuth Theme
     - name: 'og:description'
       value: The preview of the Azimuth theme
     - name: 'og:image'
