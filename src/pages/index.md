@@ -45,7 +45,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Noted errors
-        default_value: 'Did any aspects not work,hard to use or understand'
+        default_value: 'Did any aspects not work, hard to use or understand'
         options: []
         is_required: false
         type: form_field
