@@ -10,7 +10,7 @@ sections:
       to win £1000
     actions: []
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: L Chat
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
