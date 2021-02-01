@@ -24,7 +24,8 @@ sections:
         name: lorem-ipsum
         label: Device
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: text
