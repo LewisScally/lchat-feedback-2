@@ -38,7 +38,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Suggested improvement
-        default_value: How could we improve
+        default_value: How could we improve the appearance
         options: []
         is_required: false
         type: form_field
