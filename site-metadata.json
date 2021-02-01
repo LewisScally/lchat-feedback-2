@@ -72,15 +72,6 @@
                 "type": "footer_nav",
                 "title": "",
                 "nav_links": []
-            },
-            {
-                "type": "footer_form",
-                "title": "",
-                "content": "",
-                "form_id": "",
-                "hide_labels": true,
-                "form_fields": [],
-                "submit_label": ""
             }
         ],
         "has_nav": true,
