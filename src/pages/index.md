@@ -68,7 +68,7 @@ sections:
       - input_type: email
         name: Email
         label: Email
-        default_value: lchat@
+        default_value: lchat@ondevs.com
         options: []
         is_required: false
         type: form_field
