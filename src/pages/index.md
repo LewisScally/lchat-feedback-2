@@ -45,8 +45,7 @@ sections:
         name: lorem-ipsum
         label: Noted errors
         default_value: lorem-ipsum
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
         type: form_field
       - input_type: text
