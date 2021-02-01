@@ -56,7 +56,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: select
         name: lorem-ipsum
         label: Device Type
         default_value: Select
