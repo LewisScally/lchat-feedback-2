@@ -23,7 +23,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Device
-        default_value: lorem-ipsum
+        default_value: 'Iphone, '
         options:
           - lorem-ipsum
         is_required: false
