@@ -52,7 +52,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Feature Request
-        default_value: lorem-ipsum
+        default_value: What feature
         options: []
         is_required: false
         type: form_field
