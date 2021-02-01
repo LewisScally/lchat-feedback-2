@@ -65,8 +65,6 @@ seo:
     - index
     - follow
   extra:
-    - name: 'og:type'
-      value: website
     - name: 'og:title'
       value: Stackbit Azimuth Theme
     - name: 'og:description'
