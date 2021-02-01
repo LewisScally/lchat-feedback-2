@@ -11,7 +11,7 @@ sections:
     actions: []
   - section_id: lorem-ipsum
     title: L Chat
-    subtitle: lorem-ipsum
+    subtitle: Feedback Form
     content: >-
       ## Lorem ipsum
 
