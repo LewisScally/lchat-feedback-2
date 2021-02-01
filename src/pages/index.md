@@ -59,7 +59,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Device Type
-        default_value: lorem-ipsum
+        default_value: ''
         options:
           - PC
           - Mobile
